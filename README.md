@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rishi Jaiswal</h1>
-<h3 align="center">Pursuing B.Tech CSE (with specialization in Artificial Intelligence and Machine Learning</h3>
+<h3 align="center">Pursuing B.Tech CSE (with specialization in Artificial Intelligence and Machine Learning)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishi-jaizz&label=Profile%20views&color=0e75b6&style=flat" alt="rishi-jaizz" /> </p>
 
