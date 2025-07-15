@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Personal Projects**
 
-- 🌱 I’m currently learning **Deep Learning**
+- 🌱 I’m currently learning advanced automation design with **n8n**, scalable backend systems, and AI agent logic.
 
 - 👯 I’m looking to collaborate on **Machine Learning and Web Development**
 
@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/rishijaiswal888" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rishijaiswal888" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rishi-jaiswal-481632286/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rishi-jaiswal-481632286/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rishi-jaiswal-481632286/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rishi-jaiswal-481632286/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
